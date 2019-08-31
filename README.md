@@ -1,5 +1,6 @@
 # SimplePacketListener
 らくにBukkitのパケットに割り込むやつ
+改変も配布も自由にしてくれていいです。
 
 ## 使い方 / How to use
 返り値を`true`にするとパケットをキャンセルします。
