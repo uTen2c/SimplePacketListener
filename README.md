@@ -1,5 +1,5 @@
 # SimplePacketListener
-らくにBukkitのパケットに割り込むやつ
+らくにBukkitのパケットに割り込むやつ。
 
 改変も配布も自由にしてくれていいです。
 
