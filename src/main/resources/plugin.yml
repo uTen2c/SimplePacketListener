@@ -1,0 +1,4 @@
+name: SimplePacketListener
+version: ${project.version}
+main: me.uten2c.simplepacketlistener.SimplePacketListener
+api-version: 1.13
